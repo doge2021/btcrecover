@@ -1,6 +1,6 @@
 # *btcrecover* [![Build Status](https://travis-ci.org/gurnec/btcrecover.svg?branch=master)](https://travis-ci.org/gurnec/btcrecover) ![license](https://img.shields.io/badge/license-GPLv2-blue.svg) #
 
-*btcrecover* is an open source Bitcoin wallet password and seed recovery tool. if you know part of the password, you can bruteforce it. if you cant handle it by yourself, you may reach **[BTC recover](https://twitter.com/Btc2doge)** on twitter for live support.
+*btcrecover* is an open source Bitcoin wallet password and seed recovery tool. if you know part of the password, you can bruteforce it. if you cant handle it by yourself, you may reach **[BTC recover](https://btc2doge.org)** on twitter for live support.
 
 [Password found 🔑"turkeyamb_990762": how to recover the blockchain.com password](https://www.youtube.com/watch?v=gXCaBJDcV4A)
 
